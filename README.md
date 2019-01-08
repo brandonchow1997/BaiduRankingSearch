@@ -10,7 +10,11 @@ SEO工具：【百度收录排名查询工具】查询指定域名/指定标题 
 ---
 
 # 包依赖
-- itchat，tqdm，selenium，lxml，pandas
+- pip(3) install itchat
+- pip(3) install tqdm
+- pip(3) install selenium
+- pip(3) install lxml
+- pip(3) install pandas
 
 ---
 
